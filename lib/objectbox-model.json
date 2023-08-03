@@ -1,0 +1,69 @@
+{
+  "_note1": "KEEP THIS FILE! Check it into a version control system (VCS) like git.",
+  "_note2": "ObjectBox manages crucial IDs for your object model. See docs for details.",
+  "_note3": "If you have VCS merge conflicts, you must resolve them according to ObjectBox docs.",
+  "entities": [
+    {
+      "id": "3:2277100393570876092",
+      "lastPropertyId": "6:330518144611485528",
+      "name": "MyMusic",
+      "properties": [
+        {
+          "id": "1:7809540849503852068",
+          "name": "id",
+          "type": 6,
+          "flags": 129
+        },
+        {
+          "id": "2:4623245240522400913",
+          "name": "name",
+          "type": 9
+        },
+        {
+          "id": "3:5997989268819020152",
+          "name": "author",
+          "type": 9
+        },
+        {
+          "id": "4:655151520025627711",
+          "name": "url",
+          "type": 9
+        },
+        {
+          "id": "5:3154996457741386593",
+          "name": "image",
+          "type": 9
+        },
+        {
+          "id": "6:330518144611485528",
+          "name": "objectId",
+          "type": 9
+        }
+      ],
+      "relations": []
+    }
+  ],
+  "lastEntityId": "4:3058690309199596429",
+  "lastIndexId": "0:0",
+  "lastRelationId": "0:0",
+  "lastSequenceId": "0:0",
+  "modelVersion": 5,
+  "modelVersionParserMinimum": 5,
+  "retiredEntityUids": [
+    3676962597740940525,
+    9046675569340990162,
+    3058690309199596429
+  ],
+  "retiredIndexUids": [],
+  "retiredPropertyUids": [
+    5295525308706696197,
+    214813952248880274,
+    6403272070441158292,
+    5831445200962725766,
+    8179591911006880505,
+    4196650191295079836,
+    3305239454748278573
+  ],
+  "retiredRelationUids": [],
+  "version": 1
+}
